@@ -1,4 +1,4 @@
-let sort = require("./selectionSort");
+let sort = require("./sorts/selectionSort");
 
 let array = [];
 let length = 100;
