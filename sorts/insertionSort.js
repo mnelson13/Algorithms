@@ -15,7 +15,6 @@ function swap(array, firstIndex, secondIndex) {
     array[secondIndex] = temp;
 }
 
-//let pointer = 1;
 function insertionSort(array){
     for (let pointer = 1; pointer < array.length; pointer++){
         let topPointer = pointer;
