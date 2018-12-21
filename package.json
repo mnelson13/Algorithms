@@ -17,7 +17,6 @@
   },
   "homepage": "https://github.com/mnelson13/Algorithms#readme",
   "dependencies": {
-    "bigfloat": "^0.1.1",
-    "from-exponential": "^1.0.0"
+    "bigfloat": "^0.1.1"
   }
 }
