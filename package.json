@@ -1,0 +1,23 @@
+{
+  "name": "algorithms",
+  "version": "1.0.0",
+  "description": "Algorithms",
+  "main": "binarySearch.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mnelson13/Algorithms.git"
+  },
+  "author": "Melissa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mnelson13/Algorithms/issues"
+  },
+  "homepage": "https://github.com/mnelson13/Algorithms#readme",
+  "dependencies": {
+    "bigfloat": "^0.1.1",
+    "from-exponential": "^1.0.0"
+  }
+}
