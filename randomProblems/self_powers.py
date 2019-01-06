@@ -17,15 +17,15 @@ def self_powers(num):
     
     sum = str(reduce((lambda x, y: x + y), array))
 
-    result = float(sum[len(sum) - 10: len(sum)])
+    result = sum[len(sum) - 10: len(sum)]
     
     return result
 
 
 test = self_powers(10)
-print('Test (should be equal to 0405071317): %f' % test)
+print('Test (should be equal to 0405071317): %s' % test)
 
 result = self_powers(1000)
-print('Answer: %f' % result)
+print('Answer: %s' % result)
 
 # Answer is: 9110846700
