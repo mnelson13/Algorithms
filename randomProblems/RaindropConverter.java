@@ -1,6 +1,6 @@
 /*
 Problem:
-    Convert a number to a string, the contents of which depend on the number's factors.
+Convert a number to a string, the contents of which depend on the number's factors.
 
 If the number has 3 as a factor, output 'Pling'.
 If the number has 5 as a factor, output 'Plang'.
